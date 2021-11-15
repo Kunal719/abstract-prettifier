@@ -14,3 +14,5 @@ The different scores of our model : (on 20k example dataset)
 1. On Training Set - The accuracy achieved was `89.41 %` with a loss of `0.2898`
 2. On Validation Set - The accuracy achieved was `90.28 %` with a loss of `0.2604`
 3. On Test Set - The accuracy achieved was `89.95 %` with a loss of `0.2758`
+
+**The wrong predictions file has the top 100 wrong predictions our model has made on the dataset**
