@@ -7,6 +7,8 @@ The paper we are replicating is here - https://arxiv.org/abs/1710.06071
 
 The model architecture which was used to achieve the best results is here - https://arxiv.org/abs/1612.05251
 
+We can get the data on github at - https://github.com/Franck-Dernoncourt/pubmed-rct
+
 Results Achieved :
 
 The different scores of our model : (on 20k example dataset)
