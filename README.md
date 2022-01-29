@@ -3,10 +3,6 @@
 The Abstract Prettifier is a model which can help the user read the medical abstracts easier and in a well written form. It is a Natural Language Processing (NLP) Model.
 We usually see a medical study will begin with a large abstract, which tells us about the introduction to results achieved in the paper. This model can make that abstract easier for the user to read by differentiating the different parts of abstracts such as Objective, Methods, Conclusions, etc. 
 
-The paper we are replicating is here - https://arxiv.org/abs/1710.06071
-
-The model architecture which was used to achieve the best results is here - https://arxiv.org/abs/1612.05251
-
 We can get the data on github at - https://github.com/Franck-Dernoncourt/pubmed-rct
 
 Results Achieved :
